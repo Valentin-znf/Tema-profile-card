@@ -1,0 +1,20 @@
+div{
+    border: solid;
+}
+.card{
+font-size: 100%;
+background-color: red;
+}
+.date{
+    background-color: rgb(165, 10, 10);
+    
+}
+.job{
+    background-color: red;
+}
+strong{
+    font-size: 50px;
+}
+p{
+    color: aliceblue;
+}
